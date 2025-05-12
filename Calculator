@@ -4,5 +4,6 @@ int main() {
     cout << "Nimra - 22SE123";
     cout << "Addition: " << a + b;
     cout << "Subtraction: " << a - b;
+    cout << "Multiplication: " << a * b;
     return 0;
 }
